@@ -4,9 +4,27 @@
 
 Conduct a structured, evidence-based analysis of Tumor Treating Fields (TTFields) therapy in glioblastoma, integrating scientific, clinical, regulatory, financial, commercial, and post-launch evidence.
 
-## 24-W roadmap
+## Project status — reviewed 17 October 2026
 
-| Phase | W | Focus |
+| Work package | Current status | Next action |
+|---|---|---|
+| W 1 — Scientific rationale | Detailed preclinical note and blog draft exist | Final source/citation audit during synthesis |
+| W 2 — Mitosis and cytokinesis | Detailed preclinical note and blog draft exist | Check endpoint descriptions and study disclosures |
+| W 3 — DNA damage and replication stress | Detailed preclinical note and blog draft exist | Check cross-cancer versus GBM-specific claims |
+| W 4 — Models and translation | Detailed preclinical note and blog draft exist | Verify model-specific details and avoid overclaiming reproducibility |
+| W 5 — Pivotal clinical evidence | Narrative draft exists | Build structured trial-extraction table; independently verify estimates against original trial papers/FDA SSED |
+| W 6 — Regulatory history | Research note, blog draft and timeline CSV added | Retrieve original EU certificate and further verify Canadian and jurisdiction-specific label wording |
+| W 7 — Clinical evidence appraisal | Not yet completed | Extract and compare pivotal RCT design, populations, endpoints, estimates, safety and limitations |
+| W 8 — Clinical/regulatory integration | Not yet completed | Reconcile clinical evidence with indication history and document gaps |
+| W 9–12 — Financial and business analysis | Planned | Start only after Phase 2 synthesis |
+| W 13–16 — Commercialization and launch | Planned | Ground claims in identified sources and label company-reported data |
+| W 17–24 — Post-launch evaluation | Planned | Review real-world evidence, safety, adherence, utilization and outcomes |
+
+**Interpretation of status:** a file existing in the repository means a draft deliverable exists; it does not mean every referenced source and quantitative claim has already been independently verified.
+
+## 24-week roadmap
+
+| Phase | Weeks | Focus |
 |---|---:|---|
 | 1 | 1–4 | Discovery & Preclinical Evidence |
 | 2 | 5–8 | Clinical Evidence & Regulatory History |
@@ -16,7 +34,7 @@ Conduct a structured, evidence-based analysis of Tumor Treating Fields (TTFields
 
 ## Phase 1 — Discovery & Preclinical Evidence
 
-**W 1–4**
+**Weeks 1–4**
 
 - Establish the biological rationale for TTFields.
 - Review effects on mitosis and cytokinesis.
@@ -27,17 +45,18 @@ Conduct a structured, evidence-based analysis of Tumor Treating Fields (TTFields
 
 ## Phase 2 — Clinical Evidence & Regulatory History
 
-**W 5–8**
+**Weeks 5–8**
 
 - Identify pivotal and major clinical studies.
 - Extract efficacy outcomes including overall survival and progression-free survival.
 - Evaluate quality of life, treatment adherence, and adverse events.
 - Compare TTFields with relevant standards of care.
 - Build a dated regulatory timeline covering approvals, indications, and major label changes.
+- Distinguish regulatory indication changes from label updates, device configuration changes, and manufacturing/component supplements.
 
 ## Phase 3 — Financial & Business Analysis
 
-**W 9–12**
+**Weeks 9–12**
 
 - Assess treatment costs and health-economic evidence.
 - Review reimbursement and access considerations.
@@ -46,7 +65,7 @@ Conduct a structured, evidence-based analysis of Tumor Treating Fields (TTFields
 
 ## Phase 4 — Commercialization & Launch
 
-**W 13–16**
+**Weeks 13–16**
 
 - Evaluate product positioning and clinical adoption.
 - Examine implementation, patient experience, treatment logistics, and adherence.
@@ -55,7 +74,7 @@ Conduct a structured, evidence-based analysis of Tumor Treating Fields (TTFields
 
 ## Phase 5 — Post-Launch Evaluation
 
-**W 17–24**
+**Weeks 17–24**
 
 - Review post-market evidence and real-world data.
 - Evaluate longer-term safety, utilization, adherence, and outcomes.
