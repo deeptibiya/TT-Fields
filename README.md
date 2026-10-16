@@ -5,7 +5,7 @@ Evidence-based analysis of Tumor Treating Fields (TTFields) therapy in glioblast
 ## Current project status
 
 **Phase 2 — Clinical Evidence & Regulatory History**  
-**Current position:** Week 6 deliverables committed; Week 7 clinical-trial extraction is next.
+**Current position:** Weeks 1–7 have draft deliverables; Week 8 integration is next. Source-level review is still required before any draft is treated as final.
 
 | Week | Deliverable | Status |
 |---|---|---|
@@ -13,17 +13,17 @@ Evidence-based analysis of Tumor Treating Fields (TTFields) therapy in glioblast
 | 2 | Mitosis, spindle organization and cytokinesis | Draft completed |
 | 3 | DNA damage, repair and replication stress | Draft completed |
 | 4 | Preclinical models, reproducibility and translation | Draft completed |
-| 5 | Pivotal clinical evidence | Narrative draft exists; structured extraction and source verification still needed |
-| 6 | Regulatory history | Research note, blog draft and structured timeline added; some international history needs further primary-source verification |
-| 7 | Structured clinical evidence appraisal | Next |
-| 8 | Clinical/regulatory integration | Planned |
+| 5 | Pivotal clinical evidence | Narrative draft exists; structured extraction and source verification added in Week 7 |
+| 6 | Regulatory history | Research note, public-facing draft and structured timeline added; historical EU scope and some national label details need deeper primary-source verification |
+| 7 | Clinical evidence appraisal | Evidence appraisal draft and structured extraction CSV added; recurrent-trial OS estimate discrepancy flagged for reconciliation |
+| 8 | Clinical/regulatory integration | Next |
 
 ## Repository map
 
-- [Project plan](project-plan.md) — 24-week roadmap, evidence hierarchy and reproducibility standards
+- [Project plan](project-plan.md) — 24-week roadmap, progress status, evidence hierarchy and reproducibility standards
 - [Preclinical research](preclinical/) — Weeks 1–4 detailed notes
-- [Blog drafts](blog/) — public-facing summaries of completed research weeks
-- [Clinical evidence](clinical/) — Week 5 pivotal-trial analysis and planned extraction work
+- [Blog drafts](blog/) — public-facing summaries of research weeks
+- [Clinical evidence](clinical/) — Week 5 pivotal-trial narrative, Week 7 appraisal and structured trial-extraction data
 - [Literature database](literature/evidence_database_template.csv) — starter evidence records and extraction fields
 - [Regulatory research](regulatory/w-06-regulatory-history.md) — Week 6 regulatory-history analysis
 - [Regulatory timeline CSV](regulatory/regulatory_timeline.csv) — structured milestone table for reuse and expansion
