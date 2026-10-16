@@ -14,7 +14,9 @@ This directory contains the project's economic, cost/access and company-reported
 - **Week 11:** [Business and market context](w-11-business-market-context.md) describes company-reported revenue, active patients, product mix, business model, reimbursement and commercial risks.
 - **Operating/financial indicators:** [Business market indicators](business_market_indicators.csv) records the reporting period and source for each indicator.
 - **Product/market-access matrix:** [Commercial indications and market access](commercial_indications_and_market_access.csv) separates product indications and notes regulatory/coverage limitations.
-- **Public-facing summaries:** [Week 9 economics](../blog/w-09-economic-evidence.md), [Week 10 cost/access](../blog/w-10-cost-access.md) and [Week 11 business context](../blog/w-11-business-market-context.md).
+- **Week 12:** [Phase 3 synthesis](w-12-phase3-synthesis.md) combines economic models, access policy, cost drivers and company-reported performance.
+- **Synthesis matrix:** [Phase 3 synthesis matrix](phase3_synthesis_matrix.csv) records supporting evidence, caveats, working conclusions and follow-up validation.
+- **Public-facing summaries:** [Week 9 economics](../blog/w-09-economic-evidence.md), [Week 10 cost/access](../blog/w-10-cost-access.md), [Week 11 business context](../blog/w-11-business-market-context.md) and [Week 12 synthesis](../blog/w-12-phase3-synthesis.md).
 
 ## Interpretation rules
 
@@ -28,6 +30,6 @@ This directory contains the project's economic, cost/access and company-reported
 8. Active patients are a period-end stock metric, not the same as new starts, prescriptions, cumulative patients ever treated, revenue or market share.
 9. Treat company guidance and future regulatory milestones as forward-looking; verify them against later filings before reuse.
 
-## Week 12 next
+## Next phase
 
-Synthesize Weeks 9–11 into a Phase 3 assessment. The synthesis should answer what the economic models conclude, what prices/coverage inputs drive those results, how the company reports its commercial performance, and which issues cannot yet be independently resolved. Then define the evidence required for Weeks 13–16 commercialization analysis.
+Phase 3's first-pass synthesis is complete. Weeks 13–16 should focus on commercialization and launch: patient/physician journey, support delivery, adoption barriers, implementation, country-by-country access, and alternatives to TTFields. Keep disease-specific claims separate across Optune Gio, Lua and Pax, and use independent guidelines/trials for clinical positioning.
