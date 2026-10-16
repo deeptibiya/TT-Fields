@@ -12,11 +12,11 @@ Conduct a structured, evidence-based analysis of Tumor Treating Fields (TTFields
 | W 2 — Mitosis and cytokinesis | Detailed preclinical note and blog draft exist | Check endpoint descriptions and study disclosures |
 | W 3 — DNA damage and replication stress | Detailed preclinical note and blog draft exist | Check cross-cancer versus GBM-specific claims |
 | W 4 — Models and translation | Detailed preclinical note and blog draft exist | Verify model-specific details and avoid overclaiming reproducibility |
-| W 5 — Pivotal clinical evidence | Narrative draft exists | Build structured trial-extraction table; independently verify estimates against original trial papers/FDA SSED |
-| W 6 — Regulatory history | Research note, blog draft and timeline CSV added | Retrieve original EU certificate and further verify Canadian and jurisdiction-specific label wording |
-| W 7 — Clinical evidence appraisal | Not yet completed | Extract and compare pivotal RCT design, populations, endpoints, estimates, safety and limitations |
-| W 8 — Clinical/regulatory integration | Not yet completed | Reconcile clinical evidence with indication history and document gaps |
-| W 9–12 — Financial and business analysis | Planned | Start only after Phase 2 synthesis |
+| W 5 — Pivotal clinical evidence | Narrative draft exists | Reconcile endpoint estimates against original trial papers/FDA SSED |
+| W 6 — Regulatory history | Research note, blog draft and timeline CSV added | Retrieve original EU certificate and verify jurisdiction-specific labelling |
+| W 7 — Clinical evidence appraisal | Appraisal note and structured trial-extraction CSV added | Reconcile recurrent-trial OS estimate discrepancy and audit funding/conflict statements |
+| W 8 — Clinical/regulatory integration | Not yet completed | Combine W 5–7 evidence, indication history and open questions into Phase 2 synthesis |
+| W 9–12 — Financial and business analysis | Planned | Start after Phase 2 synthesis |
 | W 13–16 — Commercialization and launch | Planned | Ground claims in identified sources and label company-reported data |
 | W 17–24 — Post-launch evaluation | Planned | Review real-world evidence, safety, adherence, utilization and outcomes |
 
@@ -53,6 +53,7 @@ Conduct a structured, evidence-based analysis of Tumor Treating Fields (TTFields
 - Compare TTFields with relevant standards of care.
 - Build a dated regulatory timeline covering approvals, indications, and major label changes.
 - Distinguish regulatory indication changes from label updates, device configuration changes, and manufacturing/component supplements.
+- Reconcile quantitative discrepancies between primary journal publications and regulatory summaries.
 
 ## Phase 3 — Financial & Business Analysis
 
