@@ -16,11 +16,11 @@ Conduct a structured, evidence-based analysis of Tumor Treating Fields (TTFields
 | W 6 — Regulatory history | Research note, blog draft and timeline CSV added | Retrieve original EU certificate and verify jurisdiction-specific labelling |
 | W 7 — Clinical evidence appraisal | Appraisal note and structured trial-extraction CSV added | Reconcile recurrent-trial OS estimate discrepancy and audit funding/conflict statements |
 | W 8 — Clinical/regulatory integration | Integration draft and evidence-to-indication matrix added | Close open source-audit items before treating Phase 2 as fully verified |
-| W 9 — Economic evidence landscape | Comparative note, economic evidence matrix, reimbursement policy matrix, and blog draft committed | Deepen primary-source checks; preserve price/year/perspective caveats |
+| W 9 — Economic evidence landscape | Comparative note, economic evidence matrix, reimbursement policy matrix and blog draft committed | Deepen primary-source checks; preserve price/year/perspective caveats |
 | W 10 — Cost and access pathway | Cost/access note, cost-input CSV and blog draft committed | Gather payer-specific current cost-sharing and bundle details; avoid unsupported patient-cost figures |
-| W 11 — Business and market context | Note, operating/financial indicator CSV, product/market-access matrix and blog draft committed | Cross-check later filings before any final market snapshot; develop independent market sizing and competitive assessment |
-| W 12 — Phase 3 synthesis | Next | Integrate economic results, access constraints, company-reported business context and uncertainty without inventing a global price/market estimate |
-| W 13–16 — Commercialization and launch | Planned | Ground claims in identified sources and label company-reported data |
+| W 11 — Business and market context | Note, operating/financial indicator CSV, product/market-access matrix and blog draft committed | Cross-check later filings before final market snapshot; develop independent market sizing/competitive assessment |
+| W 12 — Phase 3 synthesis | Integrated note, synthesis matrix and blog draft committed | Phase 3 first-pass synthesis complete; carry remaining price, reimbursement and clinical-source issues forward |
+| W 13–16 — Commercialization and launch | Next phase | Study patient/physician journey, adoption barriers, implementation, support model and country access |
 | W 17–24 — Post-launch evaluation | Planned | Review real-world evidence, safety, adherence, utilization and outcomes |
 
 **Interpretation of status:** a file existing in the repository means a draft deliverable exists; it does not mean every referenced source and quantitative claim has already been independently verified.
@@ -69,8 +69,8 @@ Conduct a structured, evidence-based analysis of Tumor Treating Fields (TTFields
 - Describe the business model using appropriately sourced evidence.
 - Distinguish submitted, list, negotiated, payer-paid, and patient-paid amounts; do not assume a current universal price.
 - Model cost/access as a pathway with eligibility, authorization, device/support bundle, adherence, monitoring and continuation/discontinuation.
-- Separate company-reported revenue, active-patient counts, guidance, and market assumptions from independent epidemiology, treatment outcomes and independent market assessments.
-- Verify any announced future regulatory milestone against the current regulator record before changing its status.
+- Separate company-reported revenue, active-patient counts, guidance, and market assumptions from independent epidemiology, treatment outcomes and market assessments.
+- Verify announced future regulatory milestones against current regulator records before changing their status.
 
 ## Phase 4 — Commercialization & Launch
 
@@ -80,6 +80,8 @@ Conduct a structured, evidence-based analysis of Tumor Treating Fields (TTFields
 - Examine implementation, patient experience, treatment logistics, and adherence.
 - Assess market access and physician adoption.
 - Consider relevant competitive context.
+- Map the patient and clinician journey from eligibility and referral through initiation, support, reassessment and discontinuation.
+- Distinguish direct competitors from alternative treatments and standard-of-care pathways.
 
 ## Phase 5 — Post-Launch Evaluation
 
