@@ -16,10 +16,10 @@ Conduct a structured, evidence-based analysis of Tumor Treating Fields (TTFields
 | W 6 — Regulatory history | Research note, blog draft and timeline CSV added | Retrieve original EU certificate and verify jurisdiction-specific labelling |
 | W 7 — Clinical evidence appraisal | Appraisal note and structured trial-extraction CSV added | Reconcile recurrent-trial OS estimate discrepancy and audit funding/conflict statements |
 | W 8 — Clinical/regulatory integration | Integration draft and evidence-to-indication matrix added | Close open source-audit items before treating Phase 2 as fully verified |
-| W 9 — Economic evidence landscape | Comparative note, economic evidence matrix, reimbursement policy matrix, and blog draft committed | Check exact payer recommendation language and price dates; deepen source-level review |
-| W 10 — Cost and access pathway | Not yet completed | Extract monthly fee components, supplies/support, negotiated/list price distinctions, payer criteria, cost-sharing and budget impact |
-| W 11 — Business and market context | Planned | Research company-reported revenue/adoption, market-access pathways and competitive landscape, with source labels |
-| W 12 — Phase 3 synthesis | Planned | Integrate economic results, access constraints and uncertainties without inventing a global price/market estimate |
+| W 9 — Economic evidence landscape | Comparative note, economic evidence matrix, reimbursement policy matrix, and blog draft committed | Deepen primary-source checks; preserve price/year/perspective caveats |
+| W 10 — Cost and access pathway | Cost/access note, cost-input CSV and blog draft committed | Gather payer-specific current cost-sharing and bundle details; avoid unsupported patient-cost figures |
+| W 11 — Business and market context | Next | Research company-reported revenue/adoption, market access, and competitive context with source labels |
+| W 12 — Phase 3 synthesis | Planned | Integrate economic results, access constraints and uncertainty without inventing a global price/market estimate |
 | W 13–16 — Commercialization and launch | Planned | Ground claims in identified sources and label company-reported data |
 | W 17–24 — Post-launch evaluation | Planned | Review real-world evidence, safety, adherence, utilization and outcomes |
 
@@ -67,6 +67,8 @@ Conduct a structured, evidence-based analysis of Tumor Treating Fields (TTFields
 - Review reimbursement and access considerations.
 - Examine market size, adoption barriers, and economic value.
 - Describe the business model using appropriately sourced evidence.
+- Distinguish submitted, list, negotiated, payer-paid, and patient-paid amounts; do not assume a current universal price.
+- Model cost/access as a pathway with eligibility, authorization, device/support bundle, adherence, monitoring and continuation/discontinuation.
 
 ## Phase 4 — Commercialization & Launch
 
