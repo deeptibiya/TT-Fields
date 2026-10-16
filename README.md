@@ -5,7 +5,7 @@ Evidence-based analysis of Tumor Treating Fields (TTFields) therapy in glioblast
 ## Current project status
 
 **Phase 2 — Clinical Evidence & Regulatory History**  
-**Current position:** Weeks 1–7 have draft deliverables; Week 8 integration is next. Source-level review is still required before any draft is treated as final.
+**Current position:** Weeks 1–8 have draft deliverables; the Phase 2 synthesis is drafted and Phase 3 is next. Phase 2 still has open source-audit items before it can be called fully verified.
 
 | Week | Deliverable | Status |
 |---|---|---|
@@ -13,17 +13,18 @@ Evidence-based analysis of Tumor Treating Fields (TTFields) therapy in glioblast
 | 2 | Mitosis, spindle organization and cytokinesis | Draft completed |
 | 3 | DNA damage, repair and replication stress | Draft completed |
 | 4 | Preclinical models, reproducibility and translation | Draft completed |
-| 5 | Pivotal clinical evidence | Narrative draft exists; structured extraction and source verification added in Week 7 |
-| 6 | Regulatory history | Research note, public-facing draft and structured timeline added; historical EU scope and some national label details need deeper primary-source verification |
-| 7 | Clinical evidence appraisal | Evidence appraisal draft and structured extraction CSV added; recurrent-trial OS estimate discrepancy flagged for reconciliation |
-| 8 | Clinical/regulatory integration | Next |
+| 5 | Pivotal clinical evidence | Narrative draft exists; endpoints captured in the Week 7 structured extraction |
+| 6 | Regulatory history | Research note, blog draft and structured timeline added; historic EU certificate and some national-label details need deeper verification |
+| 7 | Clinical evidence appraisal | Appraisal note and structured trial-extraction CSV added; recurrent-trial OS estimate discrepancy flagged |
+| 8 | Clinical/regulatory integration | Integration draft and evidence-to-indication matrix added; full Phase 2 source audit remains open |
+| 9–12 | Financial and business analysis | Next phase |
 
 ## Repository map
 
-- [Project plan](project-plan.md) — 24-week roadmap, progress status, evidence hierarchy and reproducibility standards
+- [Project plan](project-plan.md) — 24-week roadmap, status, evidence hierarchy and reproducibility standards
 - [Preclinical research](preclinical/) — Weeks 1–4 detailed notes
 - [Blog drafts](blog/) — public-facing summaries of research weeks
-- [Clinical evidence](clinical/) — Week 5 pivotal-trial narrative, Week 7 appraisal and structured trial-extraction data
+- [Clinical evidence](clinical/) — Week 5 pivotal-trial narrative, Week 7 appraisal, Week 8 synthesis and structured trial/regulatory tables
 - [Literature database](literature/evidence_database_template.csv) — starter evidence records and extraction fields
 - [Regulatory research](regulatory/w-06-regulatory-history.md) — Week 6 regulatory-history analysis
 - [Regulatory timeline CSV](regulatory/regulatory_timeline.csv) — structured milestone table for reuse and expansion
