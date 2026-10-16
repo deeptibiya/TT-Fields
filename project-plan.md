@@ -15,8 +15,8 @@ Conduct a structured, evidence-based analysis of Tumor Treating Fields (TTFields
 | W 5 — Pivotal clinical evidence | Narrative draft exists | Reconcile endpoint estimates against original trial papers/FDA SSED |
 | W 6 — Regulatory history | Research note, blog draft and timeline CSV added | Retrieve original EU certificate and verify jurisdiction-specific labelling |
 | W 7 — Clinical evidence appraisal | Appraisal note and structured trial-extraction CSV added | Reconcile recurrent-trial OS estimate discrepancy and audit funding/conflict statements |
-| W 8 — Clinical/regulatory integration | Not yet completed | Combine W 5–7 evidence, indication history and open questions into Phase 2 synthesis |
-| W 9–12 — Financial and business analysis | Planned | Start after Phase 2 synthesis |
+| W 8 — Clinical/regulatory integration | Integration draft and evidence-to-indication matrix added | Close open source-audit items before treating Phase 2 as fully verified |
+| W 9–12 — Financial and business analysis | Planned; next phase | Define economic perspective, geography, comparator, horizon and outcome before collecting market claims |
 | W 13–16 — Commercialization and launch | Planned | Ground claims in identified sources and label company-reported data |
 | W 17–24 — Post-launch evaluation | Planned | Review real-world evidence, safety, adherence, utilization and outcomes |
 
@@ -54,6 +54,7 @@ Conduct a structured, evidence-based analysis of Tumor Treating Fields (TTFields
 - Build a dated regulatory timeline covering approvals, indications, and major label changes.
 - Distinguish regulatory indication changes from label updates, device configuration changes, and manufacturing/component supplements.
 - Reconcile quantitative discrepancies between primary journal publications and regulatory summaries.
+- Connect each clinical setting and evidence source to the relevant jurisdiction-specific authorization.
 
 ## Phase 3 — Financial & Business Analysis
 
