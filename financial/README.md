@@ -2,7 +2,7 @@
 
 ## Phase 3 — Weeks 9–12
 
-This directory contains the project's economic, cost and access analysis. Current work uses published models and official payer/policy records; it does not assert a single global treatment price.
+This directory contains the project's economic, cost/access and company-reported commercial analysis. It does not assert a single global treatment price or treat company reporting as independent market evidence.
 
 ## Current status
 
@@ -11,7 +11,10 @@ This directory contains the project's economic, cost and access analysis. Curren
 - **Access-policy extraction:** [Reimbursement policy matrix](reimbursement_policy_matrix.csv) compares selected CMS, CADTH, NICE, Sweden and Japan records.
 - **Week 10:** [Cost and access pathway](w-10-cost-and-access-pathway.md) maps monthly fee scope, consumables/support, daily-use requirements, reassessment, budget impact and missing patient-cost data.
 - **Cost inputs:** [Cost/access input matrix](cost_access_inputs.csv) separates known model inputs from quantities still requiring source-level collection.
-- **Public-facing summaries:** [Week 9 economics](../blog/w-09-economic-evidence.md) and [Week 10 cost/access](../blog/w-10-cost-access.md).
+- **Week 11:** [Business and market context](w-11-business-market-context.md) describes company-reported revenue, active patients, product mix, business model, reimbursement and commercial risks.
+- **Operating/financial indicators:** [Business market indicators](business_market_indicators.csv) records the reporting period and source for each indicator.
+- **Product/market-access matrix:** [Commercial indications and market access](commercial_indications_and_market_access.csv) separates product indications and notes regulatory/coverage limitations.
+- **Public-facing summaries:** [Week 9 economics](../blog/w-09-economic-evidence.md), [Week 10 cost/access](../blog/w-10-cost-access.md) and [Week 11 business context](../blog/w-11-business-market-context.md).
 
 ## Interpretation rules
 
@@ -22,7 +25,9 @@ This directory contains the project's economic, cost and access analysis. Curren
 5. Label company-reported business data as company-reported; do not treat it as independent clinical or economic validation.
 6. A clinical guideline, regulatory approval, HTA recommendation, national device licence, and payer coverage rule are different decision types.
 7. Do not double-count kit/arrays/support if they are included in a bundled monthly fee.
+8. Active patients are a period-end stock metric, not the same as new starts, prescriptions, cumulative patients ever treated, revenue or market share.
+9. Treat company guidance and future regulatory milestones as forward-looking; verify them against later filings before reuse.
 
-## Week 11 next
+## Week 12 next
 
-Review the business and market context only after establishing which cost/price figures are current, jurisdiction-specific, and comparable. Separate reported revenue, patient uptake, product availability, market forecasts and negotiated price data. Label company-reported figures clearly and record the fiscal year and reporting source.
+Synthesize Weeks 9–11 into a Phase 3 assessment. The synthesis should answer what the economic models conclude, what prices/coverage inputs drive those results, how the company reports its commercial performance, and which issues cannot yet be independently resolved. Then define the evidence required for Weeks 13–16 commercialization analysis.
