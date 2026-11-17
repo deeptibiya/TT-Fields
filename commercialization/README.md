@@ -16,7 +16,7 @@ This directory contains the patient/clinician journey, practice onboarding, trea
 2. Regulatory indication, clinical guidance, reimbursement and service availability are different market-access questions.
 3. Label-specific clinical eligibility must not be conflated with payer-specific coverage criteria.
 4. Company-described support services are evidence of the intended operating model, not independent proof of timely service or improved adherence.
-5. Daily wear-time, array changes, scalp care and caregiver capacity are part of treatment delivery and patient experience.
+5. Array changes, scalp care and caregiver capacity are part of treatment delivery and patient experience; the 18-hour/day adherence benchmark in this work is specific to the cited Medicare DME MAC LCD.
 6. Keep Optune Gio GBM findings separate from Lua and Pax indications and workflows.
 7. Do not generalize Medicare DME MAC LCD criteria to commercial insurance, Medicare Advantage, Medicaid or non-US markets.
 8. Proposed journey metrics are analytical recommendations, not company-reported performance unless sourced.
