@@ -4,7 +4,7 @@
 
 Conduct a structured, evidence-based analysis of Tumor Treating Fields (TTFields) therapy in glioblastoma, integrating scientific, clinical, regulatory, financial, commercial, and post-launch evidence.
 
-## Project status — reviewed 17 October 2026
+## Project status — reviewed 17 November 2026
 
 | Work package | Current status | Next action |
 |---|---|---|
@@ -20,7 +20,8 @@ Conduct a structured, evidence-based analysis of Tumor Treating Fields (TTFields
 | W 10 — Cost and access pathway | Cost/access note, cost-input CSV and blog draft committed | Gather payer-specific current cost-sharing and bundle details; avoid unsupported patient-cost figures |
 | W 11 — Business and market context | Note, operating/financial indicator CSV, product/market-access matrix and blog draft committed | Cross-check later filings before final market snapshot; develop independent market sizing/competitive assessment |
 | W 12 — Phase 3 synthesis | Integrated note, synthesis matrix and blog draft committed | Phase 3 first-pass synthesis complete; carry remaining price, reimbursement and clinical-source issues forward |
-| W 13–16 — Commercialization and launch | Next phase | Study patient/physician journey, adoption barriers, implementation, support model and country access |
+| W 13 — Commercialization journey | Patient/clinician journey note, structured journey CSV, workstream README and blog draft committed | Week 14: examine adoption barriers and competitive context |
+| W 14–16 — Commercialization and launch | In progress | Study adoption barriers, implementation, support model, comparative country access and competitive context |
 | W 17–24 — Post-launch evaluation | Planned | Review real-world evidence, safety, adherence, utilization and outcomes |
 
 **Interpretation of status:** a file existing in the repository means a draft deliverable exists; it does not mean every referenced source and quantitative claim has already been independently verified.
@@ -80,8 +81,10 @@ Conduct a structured, evidence-based analysis of Tumor Treating Fields (TTFields
 - Examine implementation, patient experience, treatment logistics, and adherence.
 - Assess market access and physician adoption.
 - Consider relevant competitive context.
-- Map the patient and clinician journey from eligibility and referral through initiation, support, reassessment and discontinuation.
+- Map the patient and clinician journey from eligibility and referral through initiation, support, reassessment and discontinuation (Week 13 draft completed for the US Optune Gio newly diagnosed GBM pathway, with a limited UK guidance contrast).
+- Examine adoption barriers across clinical eligibility, prescriber familiarity, documentation, payer authorization, patient/caregiver burden and service capacity.
 - Distinguish direct competitors from alternative treatments and standard-of-care pathways.
+- Verify country-specific authorization, clinical guidance, reimbursement and service availability as separate questions.
 
 ## Phase 5 — Post-Launch Evaluation
 
