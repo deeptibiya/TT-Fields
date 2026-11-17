@@ -7,8 +7,11 @@ This directory contains the patient/clinician journey, practice onboarding, trea
 ## Current status
 
 - **Week 13:** [Commercialization journey](w-13-commercialization-journey.md) maps clinical consideration, practice certification, prescription documentation, benefits investigation, patient onboarding, device training, home use, support and reassessment.
+- **Week 14:** [Adoption barriers and competitive context](w-14-adoption-barriers-competitive-context.md) synthesizes clinical, clinician, patient/caregiver, institutional, financial and evidence-confidence barriers; separates direct TTFields competition from adjacent devices and treatment alternatives.
+- **Week 14 adoption matrix:** [Adoption barriers matrix](adoption_barriers_matrix.csv) records study designs, findings, limitations, and proposed metrics.
+- **Week 14 competitive matrix:** [Competitive landscape matrix](competitive_landscape_matrix.csv) tracks established TTFields, investigational technologies and standard/recurrent GBM pathways.
 - **Patient/clinician journey matrix:** [Patient and clinician journey CSV](patient_clinician_journey.csv) structures the stages, hand-offs, payer gates, frictions and proposed indicators.
-- **Public-facing summary:** [Week 13 commercialization journey](../blog/w-13-commercialization-journey.md).
+- **Public-facing summaries:** [Week 13 commercialization journey](../blog/w-13-commercialization-journey.md) and [Week 14 adoption barriers](../blog/w-14-adoption-barriers.md).
 
 ## Interpretation rules
 
@@ -23,4 +26,4 @@ This directory contains the patient/clinician journey, practice onboarding, trea
 
 ## Next phase
 
-Week 14 will examine adoption barriers and competitive context, separating clinical, operational, financial and patient/caregiver barriers. It should distinguish direct competitors from standard-of-care options and other treatment alternatives.
+Week 15 will examine implementation models and country-level access: center capability, support infrastructure, payer pathways, local pricing, import/distribution, clinical-guideline position and independent real-world evidence requirements.
