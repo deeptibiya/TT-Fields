@@ -5,7 +5,7 @@ Evidence-based analysis of Tumor Treating Fields (TTFields) therapy in glioblast
 ## Current project status
 
 **Phase 4 — Commercialization & Launch**  
-**Current position:** Week 13 has draft deliverables mapping the US Optune Gio newly diagnosed GBM patient/clinician journey, manufacturer-described onboarding and support, Medicare coverage gates, and a limited UK guidance contrast. Weeks 1–12 remain draft research deliverables with source-audit items still open; do not treat the entire project as fully verified yet.
+**Current position:** Weeks 13–14 have draft deliverables covering the patient/clinician journey, adoption barriers, and competitive context. Week 14 includes evidence from patient-reported studies, clinician surveys, retrospective cohorts, clinical guidance and an investigational-device scan. Weeks 1–14 remain draft research deliverables with source-audit items still open; do not treat the entire project as fully verified yet.
 
 | Week | Deliverable | Status |
 |---|---|---|
@@ -22,6 +22,7 @@ Evidence-based analysis of Tumor Treating Fields (TTFields) therapy in glioblast
 | 11 | Business and market context | Company-reported FY2025 and Q2 2026 metrics, products/indications, distribution model and commercial risks documented |
 | 12 | Phase 3 synthesis | Integrated assessment and summary matrix added; current-price and country-level access gaps remain |
 | 13 | Commercialization journey | Patient/clinician workflow, structured journey matrix, workstream README and public-facing draft added; independent conversion, time-to-start and persistence data remain gaps |
+| 14 | Adoption barriers and competitive context | Adoption evidence note, adoption matrix, competitive landscape matrix and public-facing draft added; surveys and retrospective data require cautious interpretation, and emerging-device regulatory status remains to be verified |
 
 ## Repository map
 
@@ -33,7 +34,7 @@ Evidence-based analysis of Tumor Treating Fields (TTFields) therapy in glioblast
 - [Regulatory research](regulatory/w-06-regulatory-history.md) — Week 6 regulatory-history analysis
 - [Regulatory timeline CSV](regulatory/regulatory_timeline.csv) — dated regulatory milestone table
 - [Financial & Business Analysis](financial/README.md) — Weeks 9–12 economic, access and commercial materials
-- [Commercialization & Launch](commercialization/README.md) — Week 13 patient/clinician journey and Weeks 14–16 workstream
+- [Commercialization & Launch](commercialization/README.md) — Weeks 13–14 patient/clinician journey, adoption and competitive-context materials; Weeks 15–16 implementation and access workstream
 - [Economic evidence landscape](financial/w-09-economic-evidence-landscape.md) — synthesis of published economic assessments
 - [Economic evidence matrix](financial/economic_evidence_matrix.csv) — structured cross-country model extraction
 - [Cost and access pathway](financial/w-10-cost-and-access-pathway.md) — fee components, patient/payer pathway and cost gaps
@@ -47,6 +48,10 @@ Evidence-based analysis of Tumor Treating Fields (TTFields) therapy in glioblast
 - [Week 13 commercialization journey](commercialization/w-13-commercialization-journey.md) — patient, clinician, support and payer workflow
 - [Patient/clinician journey matrix](commercialization/patient_clinician_journey.csv) — structured stages, hand-offs, frictions and proposed indicators
 - [Week 13 blog draft](blog/w-13-commercialization-journey.md) — public-facing commercialization summary
+- [Week 14 adoption barriers analysis](commercialization/w-14-adoption-barriers-competitive-context.md) — adoption evidence and competitive landscape
+- [Week 14 adoption barriers matrix](commercialization/adoption_barriers_matrix.csv) — barriers, reported results, limitations and proposed metrics
+- [Week 14 competitive landscape matrix](commercialization/competitive_landscape_matrix.csv) — established, investigational and alternative GBM treatment categories
+- [Week 14 blog draft](blog/w-14-adoption-barriers.md) — public-facing adoption and competition summary
 
 ## Evidence principles
 
