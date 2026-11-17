@@ -1,0 +1,17 @@
+# Why TTFields Adoption Depends on More Than Clinical Evidence
+
+A treatment can have a regulatory indication and still be difficult to access or sustain. The experience with tumor treating fields (TTFields) in glioblastoma illustrates why adoption needs to be understood across several stages: whether the option is discussed, whether the clinician recommends it, whether the patient chooses it, whether coverage is secured, and whether treatment remains manageable over time.
+
+The barriers are not all the same. A 2025 single-center study found that poor performance status was the most frequently reported reason for not offering TTFields in that cohort. Another national survey of patients and caregivers found that the likelihood and timing of a TTFields offer varied by treatment center and patient characteristics. Some respondents described delayed conversations and having to advocate for the option themselves.
+
+The daily treatment routine is another consideration. In a small two-center patient-reported study, 71% of participants said TTFields affected everyday life at least several times per week. Device size and weight, time spent changing arrays, work, hobbies, body care and relationships were among the reported restrictions. Yet 70% said they would recommend the treatment to others and 67% said they would use it again. Burden and willingness to continue can coexist.
+
+A more recent six-center retrospective study followed 100 patients who received TTFields during concurrent chemoradiotherapy. Of the 32 who stopped after that phase, adherence burden was recorded in 44%, financial constraints in 28%, and mild scalp toxicity in 16%. Because the study was small and non-randomized, these percentages should not be treated as universal discontinuation rates. They do, however, show why treatment persistence deserves the same attention as initial uptake.
+
+The competitive landscape also needs careful classification. Optune Gio remains the established TTFields reference for glioblastoma in the sources reviewed. The Oncomagnetic Device is an emerging alternative device under investigation in a small, open-label, non-randomized pilot study. It uses oscillating magnetic fields rather than TTFields. That makes it relevant to monitor, but not an established substitute. Other experimental systems, such as ECCT, also require independent clinical and regulatory verification before being compared with Optune.
+
+Meanwhile, the standard treatment backbone remains surgery where feasible, radiotherapy with concurrent temozolomide, and adjuvant temozolomide. Current ASCO-SNO guidance says alternating electric-field therapy may be added to adjuvant temozolomide for selected patients with newly diagnosed supratentorial glioblastoma. It is an additional option, not a replacement for the rest of standard treatment.
+
+The broader lesson is that adoption depends on an informed clinical discussion, practical support, financial continuity and evidence that patients and clinicians can trust. Measuring only prescriptions or revenue would miss much of the pathway. A stronger assessment would track who is offered treatment, who chooses it, how quickly it starts, who can continue, and why people stop.
+
+*This summary draws on peer-reviewed studies, guideline updates, a patient-led survey and a registered investigational-device trial. Conference abstracts, retrospective cohorts and company-reported development claims are identified as such in the underlying research note.*
