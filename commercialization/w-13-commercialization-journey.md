@@ -26,7 +26,7 @@ The central commercialization insight is that **prescription is not the same as 
 
 ## 1. Define the treatment pathway before mapping access
 
-The current Optune Gio healthcare-professional information describes the device for adults aged 22 years or older with histologically confirmed GBM. For newly diagnosed supratentorial GBM, Optune Gio with temozolomide is indicated following maximal debulking surgery and completion of radiation therapy with concomitant standard-of-care chemotherapy. The manufacturer also describes a separate recurrent-GBM monotherapy indication after recurrence and when surgical and radiation options have been exhausted.
+The current Optune Gio healthcare-professional information describes the device for adults aged 22 years or older with histologically confirmed GBM. For newly diagnosed supratentorial GBM, Optune Gio with temozolomide is indicated following maximal debulking surgery and completion of radiation therapy with concomitant standard-of-care chemotherapy. The manufacturer also describes a separate recurrent-GBM monotherapy indication after recurrence and when surgical and radiation options have been exhausted. The HCP information states that Optune Gio may be prescribed only by a healthcare provider who has completed the manufacturer's required certification training.
 
 These are product-indication statements. They do not establish that every payer covers every indicated use, or that all countries recommend or reimburse the device.
 
@@ -72,7 +72,7 @@ The current Optune Gio HCP MyNovocure page describes seven operational steps:
 
 ## 4. The treatment workload is part of the product experience
 
-The device's real-world use is not limited to wearing a small monitor. The patient-facing instructions and manufacturer materials describe a wearable system that uses four scalp-mounted transducer arrays. The patient must be trained by qualified personnel before use. The product materials describe an average use target of 18 hours per day, with regular array changes and attention to scalp hygiene and skin condition.
+The device's real-world use is not limited to wearing a small monitor. The patient-facing instructions and manufacturer materials describe a wearable system that uses four scalp-mounted transducer arrays. The patient must be trained by qualified personnel before use. The manufacturer instructs patients to change the four arrays at least twice per week, with no more than four days between changes, and to pay attention to scalp hygiene and skin condition. Separately, the cited US Medicare DME MAC LCD defines its initial coverage and continued-coverage adherence benchmark as average use of 18 hours per day. That 18-hour figure is a payer-policy criterion in this context; it should not be represented as a universal requirement for every payer or jurisdiction.
 
 Operationally, the treatment routine can involve:
 
@@ -85,7 +85,7 @@ Operationally, the treatment routine can involve:
 
 Scalp irritation is identified among the common side effects in the patient-facing safety information. Patient readiness therefore includes practical and caregiver capacity, not merely a willingness to accept treatment after hearing about the mechanism.
 
-The treatment burden should be discussed before authorization and start, not after the device arrives. A support program can reduce technical friction, but it cannot remove the daily time commitment or replace clinician oversight.
+The treatment burden should be discussed before authorization and start, not after the device arrives. A support program can reduce technical friction, but it cannot remove the daily treatment routine or replace clinician oversight.
 
 ## 5. Payer coverage creates a separate timing and persistence gate
 
@@ -184,4 +184,4 @@ Keep GBM-specific claims distinct from product claims for other cancers.
 
 ## Interpretation and source limitations
 
-The MyNovocure workflow and educational device materials are manufacturer sources and are treated as descriptions of the intended service model and device instructions, not independent proof of service effectiveness. CMS and NICE documents represent jurisdiction-specific coverage and clinical-guidance decisions, respectively. The patient journey in this document is a structured synthesis of those sources; it is not a claim that all clinics, insurers or countries follow the same sequence.
+The MyNovocure workflow and patient device pages are manufacturer sources and are treated as descriptions of the intended service model and device instructions, not independent proof of service effectiveness. CMS and NICE documents represent jurisdiction-specific coverage and clinical-guidance decisions, respectively. The patient journey in this document is a structured synthesis of those sources; it is not a claim that all clinics, insurers or countries follow the same sequence.
