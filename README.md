@@ -4,8 +4,8 @@ Evidence-based analysis of Tumor Treating Fields (TTFields) therapy in glioblast
 
 ## Current project status
 
-**Phase 3 — Financial & Business Analysis**  
-**Current position:** Weeks 9–12 have draft deliverables and an integrated Phase 3 synthesis. Phase 2 has integrated draft deliverables, but specified source-audit items remain open; do not treat the entire project as fully verified yet.
+**Phase 4 — Commercialization & Launch**  
+**Current position:** Week 13 has draft deliverables mapping the US Optune Gio newly diagnosed GBM patient/clinician journey, manufacturer-described onboarding and support, Medicare coverage gates, and a limited UK guidance contrast. Weeks 1–12 remain draft research deliverables with source-audit items still open; do not treat the entire project as fully verified yet.
 
 | Week | Deliverable | Status |
 |---|---|---|
@@ -21,6 +21,7 @@ Evidence-based analysis of Tumor Treating Fields (TTFields) therapy in glioblast
 | 10 | Cost and access pathway | Cost inputs, coverage pathway, budget-impact caveats and public-facing draft added; current patient out-of-pocket amounts remain unverified |
 | 11 | Business and market context | Company-reported FY2025 and Q2 2026 metrics, products/indications, distribution model and commercial risks documented |
 | 12 | Phase 3 synthesis | Integrated assessment and summary matrix added; current-price and country-level access gaps remain |
+| 13 | Commercialization journey | Patient/clinician workflow, structured journey matrix, workstream README and public-facing draft added; independent conversion, time-to-start and persistence data remain gaps |
 
 ## Repository map
 
@@ -32,6 +33,7 @@ Evidence-based analysis of Tumor Treating Fields (TTFields) therapy in glioblast
 - [Regulatory research](regulatory/w-06-regulatory-history.md) — Week 6 regulatory-history analysis
 - [Regulatory timeline CSV](regulatory/regulatory_timeline.csv) — dated regulatory milestone table
 - [Financial & Business Analysis](financial/README.md) — Weeks 9–12 economic, access and commercial materials
+- [Commercialization & Launch](commercialization/README.md) — Week 13 patient/clinician journey and Weeks 14–16 workstream
 - [Economic evidence landscape](financial/w-09-economic-evidence-landscape.md) — synthesis of published economic assessments
 - [Economic evidence matrix](financial/economic_evidence_matrix.csv) — structured cross-country model extraction
 - [Cost and access pathway](financial/w-10-cost-and-access-pathway.md) — fee components, patient/payer pathway and cost gaps
@@ -42,6 +44,9 @@ Evidence-based analysis of Tumor Treating Fields (TTFields) therapy in glioblast
 - [Phase 3 synthesis](financial/w-12-phase3-synthesis.md) — integrated economics, payer access and commercial-context conclusions
 - [Phase 3 synthesis matrix](financial/phase3_synthesis_matrix.csv) — claims, caveats, working conclusions and validation tasks
 - [Reimbursement policy matrix](financial/reimbursement_policy_matrix.csv) — selected CMS, CADTH, NICE, Sweden and Japan records
+- [Week 13 commercialization journey](commercialization/w-13-commercialization-journey.md) — patient, clinician, support and payer workflow
+- [Patient/clinician journey matrix](commercialization/patient_clinician_journey.csv) — structured stages, hand-offs, frictions and proposed indicators
+- [Week 13 blog draft](blog/w-13-commercialization-journey.md) — public-facing commercialization summary
 
 ## Evidence principles
 
