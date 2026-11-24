@@ -3,7 +3,7 @@
 **Project:** Comprehensive Analysis of TTFields Therapy for Glioblastoma  
 **Phase:** 4 — Commercialization & Launch  
 **Week:** 15  
-**Review date:** 18 November 2026  
+**Review date:** 24 November 2026  
 **Status:** Structured country-access assessment draft; selected jurisdictions have primary regulatory, payer or procurement records, while other country details remain unresolved.
 
 ## 1. Research question and scope
@@ -84,7 +84,7 @@ This is a statutory insurance benefit with prescriber and quality requirements. 
 
 The Haute Autorité de Santé (HAS) issued a sufficient "service attendu" assessment for LPPR listing of Optune for adult patients with newly diagnosed GBM, in association with temozolomide during maintenance after surgery and chemoradiotherapy. HAS describes hospital prescribing reserved to neurologists, oncologists, radiation oncologists and neurosurgeons, with the decision made in a multidisciplinary meeting. It recommends use for at least 18 hours per day.
 
-The 2024 Légifrance order updated the product name in LPPR code 1141731 from OPTUNE to OPTUNE GIO without changing the listing conditions. A related official tariff notice published a tariff and public sale price for code 1141731. This does not establish one universal patient out-of-pocket amount.
+The 2024 Légifrance order updated the product name in LPPR code 1141731 from OPTUNE to OPTUNE GIO without changing the listing conditions. A related official tariff notice published a tariff and public sale price of €19,200 for code 1141731, effective 13 days after publication on 16 April 2024. This is a dated official tariff, not a verified current tariff or a universal patient out-of-pocket amount.
 
 The French reimbursement route is tied to a defined newly diagnosed indication and specialist/hospital prescribing conditions. Recurrent-GBM use should not be assumed reimbursed because the device is listed for newly diagnosed disease.
 
@@ -147,7 +147,7 @@ The FY2025 Form 10-K separately identifies nine countries with national reimburs
 
 The 2026 report states that 97% of Novocure's active patients were able to benefit from insurance coverage as of 31 December 2025. This is a company-reported global measure across Novocure therapy markets, not an independent estimate of Optune Gio coverage by country or proof that patients pay nothing.
 
-Q3 2026 active-patient counts are useful for describing commercial footprint. They do not show clinical eligibility, coverage denials, patient affordability, new starts or market share.
+The latest Q3 2026 release available at the 24 November 2026 review date reported 4,729 active Optune Gio patients at 30 September 2026: 2,324 in the United States, 656 in Germany, 493 in France, 592 in Japan and 664 across other international markets. These are company-reported period-end counts. They do not show clinical eligibility, coverage denials, patient affordability, new starts or market share.
 
 ## 6. Access metrics for further research
 
