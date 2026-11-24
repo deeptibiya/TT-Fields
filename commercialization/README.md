@@ -10,8 +10,12 @@ This directory contains the patient/clinician journey, practice onboarding, trea
 - **Week 14:** [Adoption barriers and competitive context](w-14-adoption-barriers-competitive-context.md) synthesizes clinical, clinician, patient/caregiver, institutional, financial and evidence-confidence barriers; separates direct TTFields competition from adjacent devices and treatment alternatives.
 - **Week 14 adoption matrix:** [Adoption barriers matrix](adoption_barriers_matrix.csv) records study designs, findings, limitations, and proposed metrics.
 - **Week 14 competitive matrix:** [Competitive landscape matrix](competitive_landscape_matrix.csv) tracks established TTFields, investigational technologies and standard/recurrent GBM pathways.
+- **Week 15:** [Implementation models and country-level access](w-15-implementation-models-country-access.md) compares authorization, clinical/HTA position, reimbursement, procurement and service delivery across selected markets.
+- **Week 15 country matrix:** [Country access implementation matrix](country_access_implementation_matrix.csv) separates official decisions from company-reported availability and unverified status.
+- **Research method:** [Structured literature search and screening protocol](../methods/literature-search-and-screening-protocol.md) defines prospective source searching, screening, extraction and critical appraisal.
+- **Week 15 search log:** [Search log](../methods/week15_search_log.csv) preserves the queries and primary records checked.
 - **Patient/clinician journey matrix:** [Patient and clinician journey CSV](patient_clinician_journey.csv) structures the stages, hand-offs, payer gates, frictions and proposed indicators.
-- **Public-facing summaries:** [Week 13 commercialization journey](../blog/w-13-commercialization-journey.md) and [Week 14 adoption barriers](../blog/w-14-adoption-barriers.md).
+- **Public-facing summaries:** [Week 13 commercialization journey](../blog/w-13-commercialization-journey.md), [Week 14 adoption barriers](../blog/w-14-adoption-barriers.md) and [Week 15 why approval does not equal access](../blog/w-15-why-approval-does-not-equal-access.md).
 
 ## Interpretation rules
 
@@ -26,4 +30,4 @@ This directory contains the patient/clinician journey, practice onboarding, trea
 
 ## Next phase
 
-Week 15 will examine implementation models and country-level access: center capability, support infrastructure, payer pathways, local pricing, import/distribution, clinical-guideline position and independent real-world evidence requirements.
+Week 16 will integrate Weeks 13–15 into a comparative implementation assessment, select the best-documented jurisdictions for deeper comparison, and identify the country-level records still required for India and other incompletely documented markets.
