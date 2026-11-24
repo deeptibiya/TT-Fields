@@ -4,7 +4,7 @@
 
 Conduct a structured, evidence-based analysis of Tumor Treating Fields (TTFields) therapy in glioblastoma, integrating scientific, clinical, regulatory, financial, commercial, and post-launch evidence.
 
-## Project status — reviewed 17 November 2026
+## Project status — reviewed 24 November 2026
 
 | Work package | Current status | Next action |
 |---|---|---|
@@ -21,8 +21,9 @@ Conduct a structured, evidence-based analysis of Tumor Treating Fields (TTFields
 | W 11 — Business and market context | Note, operating/financial indicator CSV, product/market-access matrix and blog draft committed | Cross-check later filings before final market snapshot; develop independent market sizing/competitive assessment |
 | W 12 — Phase 3 synthesis | Integrated note, synthesis matrix and blog draft committed | Phase 3 first-pass synthesis complete; carry remaining price, reimbursement and clinical-source issues forward |
 | W 13 — Commercialization journey | Patient/clinician journey note, structured journey CSV, workstream README and blog draft committed | Complete; retain independent conversion, time-to-start and persistence gaps |
-| W 14 — Adoption barriers and competitive context | Adoption note, adoption evidence matrix, competitive landscape matrix and blog draft committed | Week 15: map implementation models and country-level access; verify current EFE-G100 and ECCT status |
-| W 15–16 — Commercialization and launch | In progress | Study center capability, support delivery, payer pathways, local pricing, import/distribution, guideline position and independent real-world data |
+| W 14 — Adoption barriers and competitive context | Adoption note, adoption evidence matrix, competitive landscape matrix and blog draft committed | Complete; retain cautious interpretation of surveys, observational findings and investigational-device status |
+| W 15 — Implementation models and country-level access | Country-access analysis, structured 15-market matrix, prospective search/screening protocol, search log and blog draft committed | Week 16: integrate access models and rank unresolved country-level evidence gaps |
+| W 16 — Comparative implementation assessment | In progress | Compare center capability, payer pathways, local service delivery, patient affordability and available implementation outcomes |
 | W 17–24 — Post-launch evaluation | Planned | Review real-world evidence, safety, adherence, utilization and outcomes |
 
 **Interpretation of status:** a file existing in the repository means a draft deliverable exists; it does not mean every referenced source and quantitative claim has already been independently verified.
@@ -85,7 +86,8 @@ Conduct a structured, evidence-based analysis of Tumor Treating Fields (TTFields
 - Map the patient and clinician journey from eligibility and referral through initiation, support, reassessment and discontinuation (Week 13 draft completed for the US Optune Gio newly diagnosed GBM pathway, with a limited UK guidance contrast).
 - Examine adoption barriers across clinical eligibility, prescriber familiarity, documentation, payer authorization, patient/caregiver burden and service capacity (Week 14 draft completed).
 - Distinguish direct competitors from alternative treatments and standard-of-care pathways; current EFE-G100 registry status and ECCT company claims remain to be independently verified (Week 14 draft completed).
-- Verify country-specific authorization, clinical guidance, reimbursement and service availability as separate questions.
+- Verify country-specific authorization, clinical guidance, reimbursement and service availability as separate questions (Week 15 draft completed for key markets; several local payer details remain unverified).
+- Apply a prospective structured search/screening and evidence-extraction protocol to Weeks 15–24; do not retrospectively label Weeks 1–14 a systematic review.
 
 ## Phase 5 — Post-Launch Evaluation
 
