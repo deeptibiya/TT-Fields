@@ -5,7 +5,7 @@ Evidence-based analysis of Tumor Treating Fields (TTFields) therapy in glioblast
 ## Current project status
 
 **Phase 4 — Commercialization & Launch**  
-**Current position:** Weeks 13–14 have draft deliverables covering the patient/clinician journey, adoption barriers, and competitive context. Week 14 includes evidence from patient-reported studies, clinician surveys, retrospective cohorts, clinical guidance and an investigational-device scan. Weeks 1–14 remain draft research deliverables with source-audit items still open; do not treat the entire project as fully verified yet.
+**Current position:** Weeks 13–15 have draft deliverables covering the patient/clinician journey, adoption barriers, competitive context and country-level implementation. Week 15 adds a country-access matrix and a prospective literature-search/screening protocol. Weeks 1–15 remain draft research deliverables with source-audit items still open; do not treat the entire project as fully verified yet.
 
 | Week | Deliverable | Status |
 |---|---|---|
@@ -23,6 +23,7 @@ Evidence-based analysis of Tumor Treating Fields (TTFields) therapy in glioblast
 | 12 | Phase 3 synthesis | Integrated assessment and summary matrix added; current-price and country-level access gaps remain |
 | 13 | Commercialization journey | Patient/clinician workflow, structured journey matrix, workstream README and public-facing draft added; independent conversion, time-to-start and persistence data remain gaps |
 | 14 | Adoption barriers and competitive context | Adoption evidence note, adoption matrix, competitive landscape matrix and public-facing draft added; surveys and retrospective data require cautious interpretation, and emerging-device regulatory status remains to be verified |
+| 15 | Implementation models and country-level access | Country-access analysis and 15-jurisdiction matrix added; prospective search/screening protocol and search log introduced; local coverage and India access gaps remain |
 
 ## Repository map
 
@@ -34,7 +35,7 @@ Evidence-based analysis of Tumor Treating Fields (TTFields) therapy in glioblast
 - [Regulatory research](regulatory/w-06-regulatory-history.md) — Week 6 regulatory-history analysis
 - [Regulatory timeline CSV](regulatory/regulatory_timeline.csv) — dated regulatory milestone table
 - [Financial & Business Analysis](financial/README.md) — Weeks 9–12 economic, access and commercial materials
-- [Commercialization & Launch](commercialization/README.md) — Weeks 13–14 patient/clinician journey, adoption and competitive-context materials; Weeks 15–16 implementation and access workstream
+- [Commercialization & Launch](commercialization/README.md) — Weeks 13–15 patient journey, adoption, competitive context, implementation and country-access materials; Week 16 integration ahead
 - [Economic evidence landscape](financial/w-09-economic-evidence-landscape.md) — synthesis of published economic assessments
 - [Economic evidence matrix](financial/economic_evidence_matrix.csv) — structured cross-country model extraction
 - [Cost and access pathway](financial/w-10-cost-and-access-pathway.md) — fee components, patient/payer pathway and cost gaps
@@ -52,6 +53,11 @@ Evidence-based analysis of Tumor Treating Fields (TTFields) therapy in glioblast
 - [Week 14 adoption barriers matrix](commercialization/adoption_barriers_matrix.csv) — barriers, reported results, limitations and proposed metrics
 - [Week 14 competitive landscape matrix](commercialization/competitive_landscape_matrix.csv) — established, investigational and alternative GBM treatment categories
 - [Week 14 blog draft](blog/w-14-adoption-barriers.md) — public-facing adoption and competition summary
+- [Week 15 implementation and country-access analysis](commercialization/w-15-implementation-models-country-access.md) — compares regulatory, guideline, reimbursement and practical access pathways
+- [Week 15 country-access matrix](commercialization/country_access_implementation_matrix.csv) — 15-market structured comparison with source and verification status
+- [Literature search and screening protocol](methods/literature-search-and-screening-protocol.md) — prospective evidence identification and appraisal method
+- [Week 15 search log](methods/week15_search_log.csv) — recorded searches and sources checked
+- [Week 15 blog draft](blog/w-15-why-approval-does-not-equal-access.md) — public-facing country-access summary
 
 ## Evidence principles
 
